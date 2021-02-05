@@ -6,6 +6,7 @@ The font that you see in the screenshots is **Cascadia Code**.
 Inspiration: **[codeSTACKr](https://www.youtube.com/watch?v=QCqWzb-9Sy8&t=267s)**.
 
 ![ss](images/ss/ss.png)
+
 ### **Instalation:**
 1. Open the extensions sidebar on Visual Studio Code
 1. Search for Infinium Dark Theme
