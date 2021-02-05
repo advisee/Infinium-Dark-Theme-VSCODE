@@ -1,0 +1,40 @@
+{
+    "name": "infinium-dark-theme",
+    "publisher": "weezzy44",
+    "displayName": "INFINIUM DARK THEME",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "bugs": {
+        "url": "https://github.com/weezzy44/Infinium-Dark-Theme-VSCODE/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thecodercoder/codercoder-dark-theme"
+    },
+    "icon": "images/icon/Logo#2.png",
+    "keywords": [
+        "theme",
+        "dark",
+        "weezzy",
+        "weezzy44",
+        "blue",
+        "cyan",
+        "light blue",
+        "yellow"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "INFINIUM-DARK-THEME",
+                "uiTheme": "vs-dark",
+                "path": "./themes/INFINIUM-DARK-THEME.json"
+            }
+        ]
+    }
+}
