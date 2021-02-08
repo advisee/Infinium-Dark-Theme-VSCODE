@@ -98,7 +98,6 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -113,6 +112,15 @@
 			],
 			"settings": {
 				"foreground": "#667eea"
+			}
+		},
+		{
+			"name": "type",
+			"scope": [
+				"keyword.control"
+			],
+			"settings": {
+				"foreground": "#b30dbf"
 			}
 		},
 		{
@@ -136,7 +144,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#769beb"
+				"foreground": "#33b4ff"
 			}
 		},
 		{
@@ -170,7 +178,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#667EEA"
+				"foreground": "#33ff00"
 			}
 		},
 		{
