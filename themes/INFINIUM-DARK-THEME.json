@@ -1,7 +1,6 @@
 {
     "name": "Tokyo Night",
-    "author": "Enkia",
-    "maintainers": ["Enkia <enki77@gmail.com>"],
+    "author": "weezzy44",
     "type": "dark",
     "semanticTokenColors": {
         "parameter.declaration": {
@@ -380,7 +379,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "fontStyle": "italic"
+                
             }
         },
         {
@@ -457,7 +456,7 @@
             ],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#9ece6a"
+                "foreground": "#FFFF00"
             }
         },
         {
@@ -501,7 +500,8 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#9d7cd8"
+                "foreground": "#FF5370",
+				"fontStyle": "bold"
             }
         },
         {
@@ -569,7 +569,7 @@
                 "meta.at-rule.function variable.parameter.url"
             ],
             "settings": {
-                "foreground": "#89ddff"
+                "foreground": "#FF5370"
             }
         },
         {
@@ -593,7 +593,7 @@
                 "keyword.other.important"
             ],
             "settings": {
-                "foreground": "#bb9af7"
+                "foreground": "#FF5370"
             }
         },
         {
@@ -615,7 +615,7 @@
                 "keyword.operator.or.regexp"
             ],
             "settings": {
-                "foreground":  "#bb9af7"
+                "foreground":  "#FF5370"
             }
         },
         {
@@ -796,7 +796,7 @@
                 "variable.other.declaration"
             ],
             "settings": {
-                "foreground": "#bb9af7"
+                "foreground": "#82AAFF"
             }
         },
         {
